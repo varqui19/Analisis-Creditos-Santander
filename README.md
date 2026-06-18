@@ -2,6 +2,7 @@
 **Por: Ing. Angela Vargas**
 
 Este proyecto presenta una solución integral de Data Analytics e Ingeniería de Datos para el análisis de la distribución de microcréditos en el departamento de Santander, Colombia. El pipeline transforma datos públicos crudos en un tablero de control ejecutivo enfocado en Data Storytelling para la toma de decisiones institucionales.
+
 <img width="1431" height="815" alt="PresentacionCredSantander" src="https://github.com/user-attachments/assets/7c55e99b-8ae5-4cc4-9fd8-026dce4cbd8f" />
 ## Objetivo del Proyecto
 Automatizar el procesamiento y limpieza de datos provenientes del portal oficial de Datos Abiertos Colombia y diseñar un informe gerencial interactivo. El objetivo es identificar la concentración geográfica de los créditos, los sectores económicos más beneficiados y evaluar el impacto social mediante la brecha de género de los beneficiarios.
