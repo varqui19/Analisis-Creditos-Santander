@@ -1,10 +1,8 @@
-# Dashboard de Análisis Estratégico Comercial 📊
+# Análisis Créditos Santander 📊
 **Por: Ing. Angela Vargas**
 
 Este proyecto presenta una solución integral de Data Analytics e Ingeniería de Datos para el análisis de la distribución de microcréditos en el departamento de Santander, Colombia. El pipeline transforma datos públicos crudos en un tablero de control ejecutivo enfocado en Data Storytelling para la toma de decisiones institucionales.
-## 🖼️ Vista Previa del Dashboard
-<img width="1431" height="803" alt="image" src="https://github.com/user-attachments/assets/aa3ef49d-88a1-4e7a-b7ba-8863046ad1c7" />
-
+<img width="1431" height="815" alt="PresentacionCredSantander" src="https://github.com/user-attachments/assets/7c55e99b-8ae5-4cc4-9fd8-026dce4cbd8f" />
 ## Objetivo del Proyecto
 Automatizar el procesamiento y limpieza de datos provenientes del portal oficial de Datos Abiertos Colombia y diseñar un informe gerencial interactivo. El objetivo es identificar la concentración geográfica de los créditos, los sectores económicos más beneficiados y evaluar el impacto social mediante la brecha de género de los beneficiarios.
 
@@ -30,11 +28,12 @@ Visualización en Power BI: Se aplicaron principios de diseño de UI/UX para das
 ##  Visualización Interactiva
 Puedes interactuar con el informe en tiempo real a través del siguiente enlace:
 
-👉 **[Ver Dashboard Interactivo (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNDQ2NDNjMjItMWE5MS00ZGM3LTk0M2EtYzMwNGQ0OTgyNTRhIiwidCI6IjgwMDc3YmJjLWJjNWEtNDc3NS04NzA4LTIwODkyNjVjMDAzMyIsImMiOjR9)**
+👉 **[Ver Dashboard Interactivo (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNDQ2NDNjMjItMWE5MS00ZGM3LTk0M2EtYzMwNGQ0OTgyNTRhIiwidCI6IjgwMDc3YmJjLWJjNWEtNDc3NS04NzA4LTIwODkyNjVjMDAzMyIsImMiOjR9)**[Uploading LINEA_DE_CREDITO_PARA_MYPES_SANTANDER_20260612.csv…]()
+
 
 ## 📂 Repositorio de Archivos
 * **Archivo del tablero:** [Descargar Informe Comercial.pbix](./InformeMypes.pbix)
-* **Archivo fuente:** [LINEA_DE_CREDITO_PARA_MYPES_SANTANDER_20260612.csv](./LINEA_DE_CREDITO_PARA_MYPES_SANTANDER_20260612.csv)
+* **Fuente de datos:** Información pública obtenida del portal de Datos Abiertos de Colombia correspondiente al conjunto de datos **"Línea de Crédito para MYPES Santander"**, administrado por la Gobernación de Santander. Los datos fueron utilizados exclusivamente con fines de análisis y visualización. Disponible en: https://www.datos.gov.co/Econom-a-y-Finanzas/LINEA-DE-CREDITO-PARA-MYPES-SANTANDER/85p6-3egp
 * **Notebook de análisis y limpieza:** [limpieza_datos.ipynb](./ProyectoFinanciero.ipynb)
 
 *Nota: Este proyecto forma parte de mi portafolio profesional como Ingeniera de Sistemas.*
