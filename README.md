@@ -29,7 +29,7 @@ Visualización en Power BI: Se aplicaron principios de diseño de UI/UX para das
 ##  Visualización Interactiva
 Puedes interactuar con el informe en tiempo real a través del siguiente enlace:
 
-👉 **[Ver Dashboard Interactivo (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNDQ2NDNjMjItMWE5MS00ZGM3LTk0M2EtYzMwNGQ0OTgyNTRhIiwidCI6IjgwMDc3YmJjLWJjNWEtNDc3NS04NzA4LTIwODkyNjVjMDAzMyIsImMiOjR9)**[Uploading LINEA_DE_CREDITO_PARA_MYPES_SANTANDER_20260612.csv…]()
+👉 **[Ver Dashboard Interactivo (Power BI Web)](https://app.powerbi.com/view?r=eyJrIjoiNDQ2NDNjMjItMWE5MS00ZGM3LTk0M2EtYzMwNGQ0OTgyNTRhIiwidCI6IjgwMDc3YmJjLWJjNWEtNDc3NS04NzA4LTIwODkyNjVjMDAzMyIsImMiOjR9)**
 
 
 ## 📂 Repositorio de Archivos
