@@ -16,7 +16,7 @@ Automatizar el procesamiento y limpieza de datos provenientes del portal oficial
 
 ## KPIs e Indicadores Clave
 El informe permite monitorear:
-1.  **VVolumen de Créditos:** Monitoreo del total de microcréditos otorgados en la región (2,096 registros).
+1.  **Volumen de Créditos:** Monitoreo del total de microcréditos otorgados en la región (2,096 registros).
 2.  **Impacto de Género:** isualización directa de la distribución del beneficio entre Mujeres, Hombres y Personas Jurídicas, destacando el liderazgo del segmento femenino.
 3.  **Participación por Macrosector:** Identificación de las industrias que más demandan recursos (liderado fuertemente por Comercio e Industrias Manufactureras).
 4.  **TConcentración Territorial:** Top 10 de municipios con mayor asignación de recursos en Santander.
