@@ -19,7 +19,7 @@ El informe permite monitorear:
 1.  **Volumen de Créditos:** Monitoreo del total de microcréditos otorgados en la región (2,096 registros).
 2.  **Impacto de Género:** isualización directa de la distribución del beneficio entre Mujeres, Hombres y Personas Jurídicas, destacando el liderazgo del segmento femenino.
 3.  **Participación por Macrosector:** Identificación de las industrias que más demandan recursos (liderado fuertemente por Comercio e Industrias Manufactureras).
-4.  **TConcentración Territorial:** Top 10 de municipios con mayor asignación de recursos en Santander.
+4.  **Concentración Territorial:** Top 10 de municipios con mayor asignación de recursos en Santander.
 
 ## Estructura del Modelo
 ETL con Python: Se desarrolló un script para limpiar caracteres especiales, convertir nombres de columnas a formato estándar (snake_case), homologar las categorías de género y exportar un dataset 100% consistente.
